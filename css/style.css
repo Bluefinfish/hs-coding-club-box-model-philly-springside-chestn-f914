@@ -30,38 +30,53 @@ h3 {
   margin-bottom: 10px;
   padding: 10px 10px 10px 10px;
   background: grey;
-}
 
-/#audrey {
+}*"The Classy Roommate"*/
+#audrey {
   margin-left: auto;
   margin-right: auto;
   display: block;
-}*"The Classy Roommate"*/
+  border: 15px solid red;
+}
 
+}*"The Neurotic New Yorker"*
+/#woody {
+    padding-top: 55.5px;
+    padding-bottom: 55.5px;
+    padding-left: 32.5px;
+    padding-right: 32.5px;
+    background-color: white;
+    border: 15px solid red;
+}
 
-
-#woody {
-  padding-top: 55.5px;
-  padding-bottom: 55.5px;
-  padding-left: 32.5px;
-  padding-right: 32.5px;
-  background-color: white;
-}*"The Neurotic New Yorker"*/
-
-
-#warhol {
+}*"The Art History Major"*
+/#warhol {
   height: 300px;
 }
 
 #picasso {
   height: 300px;
-}*"The Art History Major"*/
-
-
-#mj {
-  height: 200px;
+}
+.double {
+  border: 20px solid navy;
+  text-align: center;
+  background-color: white;
 }
 
-#beyonce {
-  height: 300px;
-}*"Pop Culture Fanatic"*/
+}*"Pop Culture Fanatic"* #mj {
+    height: 200px;
+  }
+
+  #mj {
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 7px solid black;
+  }
+  /#beyonce {
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 10px solid purple;
